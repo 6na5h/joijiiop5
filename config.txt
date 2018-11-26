@@ -1,4 +1,4 @@
-﻿token=NTAzNTY3Mjg2NjYyMjAxMzQ0.Dty-dA.CliDGdBBkwp7rLHRrvclPecXhqc
+token=NTAzNTY3Mjg2NjYyMjAxMzQ0.Dty-dA.CliDGdBBkwp7rLHRrvclPecXhqc
 owner=319587743699042305
 prefix= 5
 game= 5play
